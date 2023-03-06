@@ -1,0 +1,11 @@
+user-agent: Yandex
+allow: /
+
+user-agent: Googlebot
+allow: /
+
+user-agent: *
+allow: /
+sitemap: https://auto-sphere.ru/sitemap.xml
+host: https://auto-sphere.ru
+
